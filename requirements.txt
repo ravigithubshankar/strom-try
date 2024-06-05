@@ -23,3 +23,4 @@ cloudpickle
 omegaconf
 pycocotools
 opencv-python
+libgl1-mesa-glx
